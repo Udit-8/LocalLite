@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344417357353",
+    "firebase_url": "https://localelite-3b21b.firebaseio.com",
+    "project_id": "localelite-3b21b",
+    "storage_bucket": "localelite-3b21b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344417357353:android:e8d3d45d43ee8dd5f6d638",
+        "android_client_info": {
+          "package_name": "com.example.localelite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344417357353-b6ue82ts88jvae51hihuho1vh8aship6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPVgA2gIvf6jvmHvmNHcA7hI3VAi91po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344417357353-b6ue82ts88jvae51hihuho1vh8aship6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
